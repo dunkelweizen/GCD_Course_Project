@@ -1,5 +1,9 @@
 # Code book for Getting and Cleaning Data course project
 
+Note: all variables after Subject and Activity are unitless
+For further details see the original data at:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 * Subject - Subject unique identifier (integer)
 * Activity - Subject's activity (6 categorical levels: LAYING/SITTING/STANDING/WALKING/WALKING_DOWNSTAIRS/WALKING_UPSTAIRS)
 * Average_of_tBodyAcc_mean_X - Averaged mean body linear acceleration in X direction
